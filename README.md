@@ -1,4 +1,4 @@
-# lince-fragrances-mern-stack
+# shop-mern-stack
 
 ## Project
 
@@ -31,37 +31,10 @@ To clone and run this application, you'll need Git, Node.js & NPM/Yarn installed
 
 From your command line:
 
-#### Install Lince Fragrances API 
-
-```bash
-# Clone this repository
-$ git clone https://github.com/gideonfernandes/lince-fragrances-mern-stack.git
-
-# Go into the repository
-$ cd lince-fragrances-mern-stack
-
-# Install dependencies
-$ yarn install
-
 # Start server
 $ yarn server
 
 # running on port 8888
-```
-
-#### Install Lince Fragrances Web Client
-
-```bash
-# Go into the repository
-$ cd lince-fragrances-mern-stack/client
-
-# Install dependencies
-$ yarn install
-
-# Run
-$ yarn start
-
-# running on port 3000
 ```
 
 #### Start API and client simultaneously
@@ -74,7 +47,3 @@ $ yarn dev
 
 # Running API on port 8888 & running client on port 3000
 ```
-
-### License
-
-This project is under the MIT license.
